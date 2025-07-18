@@ -226,3 +226,6 @@ public class Customer implements Serializable {
     }
 
 }
+
+//Comentario de modificacion simple para CICD
+
