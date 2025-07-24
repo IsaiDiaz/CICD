@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Commit para dockerhub jenkins - 24 julio 2025 2:25pm" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Commit para dockerhub github actions - 24 julio 2025 3:45pm" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
